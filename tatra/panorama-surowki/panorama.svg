@@ -7,6 +7,20 @@
    height="290mm"
    viewBox="0 0 4200 290"
 >
+  <style>
+    text {
+      font-family: sans-serif;
+      font-weight: bold;
+      font-size: 0.4mm;
+      letter-spacing: 0.3mm;
+      fill: #202060;
+      stroke: white;
+      stroke-width: 0.02mm;
+      stroke-miterlimit: 4;
+      stroke-opacity: 0.7;
+      transform-origin: center;
+    }
+  </style>
   <image
      xlink:href="photo.jpg"
      x="0"
@@ -15,4 +29,9 @@
      height="290"
      id="photo"
   />
+  <a href="https://pl.wikipedia.org/wiki/Mały_Giewont">
+    <text x="2220" y="173" transform="rotate(-5.5)">
+      <tspan>Mały Giewont</tspan>
+    </text>
+  </a>
 </svg>
