@@ -16,8 +16,18 @@
       stroke: white;
       stroke-width: 0.02mm;
       stroke-miterlimit: 4;
-      transform-origin: center;
       text-anchor: middle;
+    }
+
+    text.angled {
+      transform-origin: left bottom;
+      transform-box: fill-box;
+      transform: rotate(-45deg);
+    }
+    text.angledfwd {
+      transform-origin: left bottom;
+      transform-box: fill-box;
+      transform: rotate(30deg);
     }
   </style>
   <image
@@ -28,6 +38,91 @@
      height="290"
      id="photo"
   />
+  <a href="https://pl.wikipedia.org/wiki/Bujaczy_Wierch">
+    <text>
+      <textPath path="M 440 197 a 100 100 0 0 1 100 0" startOffset="40%">
+        <tspan>Bujaczy Wierch</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Szalony_Wierch">
+    <text>
+      <textPath path="M 692 173 a 30 30 0 0 1 30 0" startOffset="50%">
+        <tspan>Szalony Wierch</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Płaczliwa_Skała">
+    <text>
+      <textPath path="M 738 175 a 15 15 0 0 1 30 0" startOffset="55%">
+        <tspan>Płaczliwa Skała</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Hawrań">
+    <text x="790" y="152" class="angledfwd">
+      <tspan>Hawrań</tspan>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Nowy_Wierch">
+    <text>
+      <textPath path="M 834 182 a 15 15 0 0 1 30 0" startOffset="50%">
+        <tspan>Nowy Wierch</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Durny_Szczyt">
+    <text x="903" y="135" class="angled">
+      <tspan>Durny Szczyt</tspan>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Śnieżny_Szczyt">
+    <text x="1001" y="142" class="angled">
+      <tspan>Śnieżny Szczyt</tspan>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Lodowy_Szczyt">
+    <text>
+      <textPath path="M 1005 136 a 30 30 0 0 1 30 0" startOffset="50%">
+        <tspan>Lodowy Szczyt</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Jaworowy_Szczyt">
+    <text>
+      <textPath path="M 1107 151 a 30 30 0 0 1 30 0" startOffset="50%">
+        <tspan>Jaworowy Szczyt</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Gerlach">
+    <text>
+      <textPath path="M 1314 138 a 30 30 0 0 1 30 0" startOffset="50%">
+        <tspan>Gerlach</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Wysoka_(Tatry)">
+    <text>
+      <textPath path="M 1498 138 a 15 15 0 0 1 15 0" startOffset="50%">
+        <tspan>Wysoka</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Rysy">
+    <text>
+      <textPath path="M 1516 140 a 15 15 0 0 1 15 0" startOffset="50%">
+        <tspan>Rysy</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Wielka_Koszysta">
+    <text>
+      <textPath path="M 1635 151 a 20 20 0 0 1 30 0" startOffset="50%">
+        <tspan>Wielka Koszysta</tspan>
+      </textPath>
+    </text>
+  </a>
   <a href="https://pl.wikipedia.org/wiki/Mały_Giewont">
     <text x="2233" y="173" transform="rotate(-5.5)">
       <tspan>Mały Giewont</tspan>
@@ -51,6 +146,20 @@
     <text>
       <textPath path="M 2330 149 a 30 30 0 0 1 30 0" startOffset="50%">
         <tspan>Małołączniak</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Krzesanica">
+    <text>
+      <textPath path="M 2380 147.5 a 30 30 0 0 1 30 0" startOffset="50%">
+        <tspan>Krzesanica</tspan>
+      </textPath>
+    </text>
+  </a>
+  <a href="https://pl.wikipedia.org/wiki/Ciemniak">
+    <text>
+      <textPath path="M 2409.5 149.5 a 30 30 0 0 1 30 0" startOffset="50%">
+        <tspan>Ciemniak</tspan>
       </textPath>
     </text>
   </a>
