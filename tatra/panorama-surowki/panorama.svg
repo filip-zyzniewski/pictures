@@ -11,13 +11,11 @@
     text {
       font-family: sans-serif;
       font-weight: bold;
-      font-size: 0.4mm;
-      letter-spacing: 0.3mm;
+      font-size: 0.6mm;
       fill: #202060;
       stroke: white;
       stroke-width: 0.02mm;
       stroke-miterlimit: 4;
-      stroke-opacity: 0.7;
       transform-origin: center;
       text-anchor: middle;
     }
