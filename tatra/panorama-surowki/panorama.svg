@@ -19,10 +19,7 @@
       stroke-miterlimit: 4;
       stroke-opacity: 0.7;
       transform-origin: center;
-    }
-    circle {
-      fill: none;
-      stroke: none;
+      text-anchor: middle;
     }
   </style>
   <image
@@ -34,50 +31,29 @@
      id="photo"
   />
   <a href="https://pl.wikipedia.org/wiki/Mały_Giewont">
-    <text x="2220" y="173" transform="rotate(-5.5)">
+    <text x="2233" y="173" transform="rotate(-5.5)">
       <tspan>Mały Giewont</tspan>
     </text>
   </a>
   <a href="https://pl.wikipedia.org/wiki/Giewont">
     <text>
-      <textPath xlink:href="#giewont-path">
+      <textPath path="M 2262.5 161 a 7 7 0 0 1 13 0" startOffset="50%">
         <tspan>Giewont</tspan>
       </textPath>
     </text>
   </a>
-  <circle
-    transform="rotate(-150, 2269, 164)"
-    id="giewont-path"
-    cx="2269"
-    cy="164"
-    r="7"
-  />
   <a href="https://pl.wikipedia.org/wiki/Kopa_Kondracka">
     <text>
-      <textPath xlink:href="#kopa-kondracka-path">
+      <textPath path="M 2261.5 156 a 30 30 0 0 1 30 0" startOffset="50%">
         <tspan>Kopa Kondracka</tspan>
       </textPath>
     </text>
   </a>
-  <circle
-    transform="rotate(-118, 2275, 182)"
-    id="kopa-kondracka-path"
-    cx="2275"
-    cy="182"
-    r="30"
-  />
   <a href="https://pl.wikipedia.org/wiki/Małołączniak">
     <text>
-      <textPath xlink:href="#malolaczniak-path">
+      <textPath path="M 2330 149 a 30 30 0 0 1 30 0" startOffset="50%">
         <tspan>Małołączniak</tspan>
       </textPath>
     </text>
   </a>
-  <circle
-    transform="rotate(-113, 2345, 175)"
-    id="malolaczniak-path"
-    cx="2345"
-    cy="175"
-    r="30"
-  />
 </svg>
