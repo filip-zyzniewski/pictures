@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Author: Filip Zyzniewski <filip.zyzniewski@gmail.com> -->
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   width="4200mm"
+   height="290mm"
+   viewBox="0 0 4200 290"
+>
+  <image
+     xlink:href="photo.jpg"
+     x="0"
+     y="0"
+     width="4200"
+     height="290"
+     id="photo"
+  />
+</svg>
