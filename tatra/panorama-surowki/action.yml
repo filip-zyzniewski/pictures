@@ -2,7 +2,7 @@ name: Make with Firefox
 description: Runs make in a Docker container with Firefox
 runs:
     using: docker
-    image: tatra/panorama-surowki/Dockerfile
+    image: Dockerfile
     args:
         - -C
-        - /github/workspace/tatra/panorama-surowki
+        - tatra/panorama-surowki

@@ -8,7 +8,8 @@ jobs:
       - name: Checkout the source
         uses: actions/checkout@v2
       - name: Build the panorama
-        uses: filip-zyzniewski/pictures@HEAD
+        # TODO: use the same Git SHA as the workflow
+        uses: filip-zyzniewski/pictures/tatra/panorama-surowki@HEAD
       - name: Upload the result
         uses: actions/upload-artifact@v2
         with:
