@@ -5,6 +5,8 @@ all: panorama.jpg
 %.jpg: %.svg
 	firefox --headless -CreateProfile profile
 	firefox -no-remote --screenshot $@ file://`pwd`/$<
+	# Firefox seems to be doing 0600
+	chmod 0644 $@
 	rm -r `pwd`/tmphome
 
 clean:
