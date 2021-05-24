@@ -1,0 +1,15 @@
+on: [push]
+
+jobs:
+  build-tatra-panorama-surowki:
+    runs-on: ubuntu-latest
+    name: Building a panorama of Tatra Mountains from the Surówki clearing
+    steps:
+      - name: Checkout the source
+        uses: actions/checkout@v2
+      - name: Build the panorama
+        uses: filip-zyzniewski/pictures@HEAD
+      - name: Upload the result
+        uses: actions/upload-artifact@v2
+        with:
+          path: tatra/panorama-surowki/panorama.jpg
