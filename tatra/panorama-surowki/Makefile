@@ -2,9 +2,11 @@ export HOME=$(shell pwd)/tmphome
 
 all: panorama.jpg
 
-%.jpg: %.svg
-	firefox --headless -CreateProfile profile
-	firefox -no-remote --screenshot $@ file://`pwd`/$<
+
+%.jpg: %.xml image-legend.xsl
+	firefox --headless -no-remote -CreateProfile profile
+	echo 'user_pref("privacy.file_unique_origin", false);' >> `echo $(HOME)/.mozilla/firefox/*.profile/ `user.js
+	firefox -P profile -no-remote --screenshot $@ file://`pwd`/$<
 	# Firefox seems to be doing 0600
 	chmod 0644 $@
 	rm -r `pwd`/tmphome

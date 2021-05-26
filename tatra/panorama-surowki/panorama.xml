@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="image-legend.xsl" type="text/xsl"?>
+<!-- Author: Filip Zyzniewski <filip.zyzniewski@gmail.com> -->
+<image width="4200" height="290">
+  <background href="photo.jpg"/>
+  <legend>
+    <arc x="478" y="186" r="50" angle="-7">Bujaczy Wierch</arc>
+    <arc x="707" y="171">Szalony Wierch</arc>
+    <arc x="754.5" y="162" r="15">Płaczliwa Skała</arc>
+    <line x="793" y="160" slant="left">Hawrań</line>
+    <arc x="848" y="169" r="15">Nowy Wierch</arc>
+    <line x="893.5" y="137" slant="right">Durny Szczyt</line>
+    <line x="991.5" y="143.5" slant="left">Śnieżny Szczyt</line>
+    <arc x="1019.3" y="133.8">Lodowy Szczyt</arc>
+    <arc x="1118" y="149" angle="-10">Jaworowy Szczyt</arc>
+    <arc x="1329" y="135.5" r="10">Gerlach</arc>
+    <arc x="1503.5" y="137.5" wiki="Wysoka_(Tatry)">Wysoka</arc>
+    <arc x="1522.5" y="139.5" r="15">Rysy</arc>
+    <arc x="1649" y="145" r="20">Wielka Koszysta</arc>
+    <arc x="2235" y="161.5" r="200" angle="-5.5">Długi Giewont</arc>
+    <arc x="2268.3" y="158.5" r="7" angle="-5">Giewont</arc>
+    <arc x="2275" y="153.5" angle="-5">Kopa Kondracka</arc>
+    <arc x="2344" y="146.5">Małołączniak</arc>
+    <arc x="2392" y="145" angle="-5">Krzesanica</arc>
+    <arc x="2424" y="147.5" angle="-1">Ciemniak</arc>
+  </legend>
+</image>
