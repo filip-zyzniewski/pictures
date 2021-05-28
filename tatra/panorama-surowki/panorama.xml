@@ -14,24 +14,82 @@
     <arc x="850" y="144.5" r="5" wiki="Widły_(Tatry)">Widły</arc>
     <arc x="875" y="137" r="10">Łomnica</arc>
     <line x="893.5" y="137" slant="right">Durny Szczyt</line>
+    <arc x="906" y="176" r="10">Murań</arc>
     <arc x="937.5" y="141.5" r="10">Baranie Rogi</arc>
     <line x="991.5" y="143.5" slant="left">Śnieżny Szczyt</line>
     <arc x="1019.3" y="133.8">Lodowy Szczyt</arc>
     <arc x="1085" y="153" angle="3">Sławkowska Grań</arc>
-    <arc x="1118" y="149" angle="-10">Jaworowy Szczyt</arc>
+    <line x="1118" y="149" slant="left">Jaworowy Szczyt</line>
+    <line x="1144" y="150.5" slant="left">Mały Jaworowy Szczyt</line>
     <line x="1213.5" y="146.7" slant="left">Staroleśny Szczyt</line>
+    <line x="1254" y="149" slant="left">Mała Wysoka</line>
     <arc x="1227" y="156" angle="5">Szeroka Jaworzyńska</arc>
     <arc x="1329" y="135.5" r="10">Gerlach</arc>
     <arc x="1377" y="147" r="12">Batyżowieczki Szczyt</arc>
+    <line x="1395" y="150.5" slant="left">Kaczy Szczyt</line>
+    <line x="1412" y="151" slant="left">Zmarzły Szczyt</line>
+    <line x="1429" y="143.5" slant="left">Kończysta</line>
+    <line x="1442.7" y="147" slant="left">Żłobisty Szczyt</line>
+    <line x="1449" y="146.5" slant="left">Rumanowy Szczyt</line>
     <arc x="1455" y="144" wiki="Ganek_(Tatry)">Ganek</arc>
-    <arc x="1503.5" y="137.5" wiki="Wysoka_(Tatry)">Wysoka</arc>
+    <line x="1503.5" y="137.5" slant="left" wiki="Wysoka_(Tatry)">Wysoka</line>
+    <line x="1515" y="140.5" slant="left">Ciężki Szczyt</line>
     <arc x="1522.5" y="139.5" r="15">Rysy</arc>
     <arc x="1649" y="145" r="20">Wielka Koszysta</arc>
+    <arc x="1760" y="151.8" r="8">Żółta Turnia</arc>
+    <arc x="1777" y="141">Kozi Wierch</arc>
+    <arc x="1844.5" y="148.5" r="15" angle="5" wiki="Kościelec (Tatry)">Kościelec</arc>
+    <arc x="1874" y="139" r="15" angle="-5">Świnica</arc>
+    <line x="1916.5" y="150" slant="left">Pośrednia Turnia</line>
+    <line x="1929.5" y="152" slant="left">Skrajna Turnia</line>
+    <arc x="1951" y="139" r="10">Krywań</arc>
+    <arc x="1982.5" y="156.7" r="7" angle="-10" wiki="Beskid (Tatry)">Beskid</arc>
+    <arc x="2013" y="156.7" r="20" angle="-3">Kasprowy Wierch</arc>
+    <arc x="2063" y="158.5" r="17" angle="-2" wiki="Wielka Kopa (Tatry)">Wielka Kopa</arc>
+    <arc x="2095" y="165.5" r="50">Pośredni Goryczkowy Wierch</arc>
+    <line x="2127" y="163" slant="left">Krížna</line>
+    <arc x="2142" y="161.5" r="12" angle="-5">Goryczkowa Czuba</arc>
+    <arc x="2161" y="180.5" r="15" angle="5">Kalacka Kopa</arc>
     <arc x="2235" y="161.5" r="200" angle="-5.5">Długi Giewont</arc>
     <arc x="2268.3" y="158.5" r="7" angle="-5">Giewont</arc>
+    <arc x="2299.5" y="170" r="8" angle="-5">Mały Giewont</arc>
     <arc x="2275" y="153.5" angle="-5">Kopa Kondracka</arc>
     <arc x="2344" y="146.5">Małołączniak</arc>
+    <arc x="2378" y="190" r="10">Łysanki</arc>
     <arc x="2392" y="145" angle="-5">Krzesanica</arc>
     <arc x="2424" y="147.5" angle="-1">Ciemniak</arc>
+    <arc x="2444" y="151.5" angle="9">Twarda Kopa</arc>
+    <arc x="2476" y="163" angle="9">Chuda Turnia</arc>
+    <arc x="2508" y="167" r="60" angle="1">Upłaziańska Kopa</arc>
+    <arc x="2518" y="155" angle="12">Smreczyński Wierch</arc>
+    <arc x="2562" y="153" r="15" angle="-7">Kamienista</arc>
+    <arc x="2686.5" y="147" r="15" wiki="Bystra (Tatry)">Bystra</arc>
+    <arc x="2697.3" y="151.5" r="5" wiki="Błyszcz (Tatry)">Błyszcz</arc>
+    <arc x="2731" y="155" r="12">Zadnia Kopa</arc>
+    <arc x="2790" y="166" r="60" angle="2">Kominiarski Wierch</arc>
+    <arc x="2807" y="150" r="20" angle="-5">Starorobociański Wierch</arc>
+    <arc x="2875.5" y="160.5">Kończysty Wierch</arc>
+    <arc x="2884.5" y="170">Czubik</arc>
+    <arc x="2886" y="150.5">Raczkowa Czuba</arc>
+    <arc x="2916" y="175" angle="4" r="60">Trzydniowiański Wierch</arc>
+    <arc x="2921" y="154" angle="4">Jarząbczy Wierch</arc>
+    <arc x="3012.5" y="164.5" wiki="Łopata_(Tatry)">Łopata</arc>
+    <arc x="3060" y="178" r="50" angle="-1" wiki="Bobrowiec_(Tatry)">Bobrowiec</arc>
+    <arc x="3091.7" y="157.3" wiki="Wołowiec_(Tatry)">Wołowiec</arc>
+    <line x="3128" y="156.7" r="20" slant="left" wiki="Baraniec_(Tatry)">Baraniec</line>
+    <arc x="3131" y="168.5">Rakoń</arc>
+    <line x="3141" y="156" r="20" slant="left">Rohacz Płaczliwy</line>
+    <arc x="3237" y="155">Trzy Kopy</arc>
+    <arc x="3265" y="153.5" r="15">Hruba Kopa</arc>
+    <arc x="3319" y="153.5" angle="2" wiki="Banówka_(szczyt)">Banówka</arc>
+    <arc x="3358" y="158">Spalona Kopa</arc>
+    <arc x="3363.3" y="153.5">Pachoł</arc>
+    <arc x="3432" y="177" r="10" angle="-5">Osobita</arc>
+    <line x="3459" y="160.5" slant="left">Salatyński Wierch</line>
+    <line x="3472.5" y="160.5" slant="left">Mały Salatyn</line>
+    <arc x="3519" y="166.5">Brestowa</arc>
+    <arc x="3674" y="178.5" r="15" angle="-5">Siwy Wierch</arc>
+    <arc x="3824" y="207" r="15" wiki="Biała_Skała_(Tatry)">Biała Skała</arc>
+    <arc x="4050" y="217.5" angle="5" wiki="Salatín_(Niżne_Tatry)">Salatín</arc>
   </legend>
 </image>
