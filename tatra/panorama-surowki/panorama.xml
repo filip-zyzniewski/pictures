@@ -8,12 +8,22 @@
     <arc x="707" y="171">Szalony Wierch</arc>
     <arc x="754.5" y="162" r="15">Płaczliwa Skała</arc>
     <line x="793" y="160" slant="left">Hawrań</line>
+    <arc x="829" y="160" r="15" angle="-10">Jagnięcy Szczyt</arc>
+    <arc x="830" y="142.5" r="12">Kieżmarski Szczyt</arc>
     <arc x="848" y="169" r="15">Nowy Wierch</arc>
+    <arc x="850" y="144.5" r="5" wiki="Widły_(Tatry)">Widły</arc>
+    <arc x="875" y="137" r="10">Łomnica</arc>
     <line x="893.5" y="137" slant="right">Durny Szczyt</line>
+    <arc x="937.5" y="141.5" r="10">Baranie Rogi</arc>
     <line x="991.5" y="143.5" slant="left">Śnieżny Szczyt</line>
     <arc x="1019.3" y="133.8">Lodowy Szczyt</arc>
+    <arc x="1085" y="153" angle="3">Sławkowska Grań</arc>
     <arc x="1118" y="149" angle="-10">Jaworowy Szczyt</arc>
+    <line x="1213.5" y="146.7" slant="left">Staroleśny Szczyt</line>
+    <arc x="1227" y="156" angle="5">Szeroka Jaworzyńska</arc>
     <arc x="1329" y="135.5" r="10">Gerlach</arc>
+    <arc x="1377" y="147" r="12">Batyżowieczki Szczyt</arc>
+    <arc x="1455" y="144" wiki="Ganek_(Tatry)">Ganek</arc>
     <arc x="1503.5" y="137.5" wiki="Wysoka_(Tatry)">Wysoka</arc>
     <arc x="1522.5" y="139.5" r="15">Rysy</arc>
     <arc x="1649" y="145" r="20">Wielka Koszysta</arc>
