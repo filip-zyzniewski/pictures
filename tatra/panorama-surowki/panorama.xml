@@ -5,6 +5,9 @@
   <background href="photo.jpg"/>
   <legend>
     <arc x="478" y="186" r="50" angle="-7">Bujaczy Wierch</arc>
+    <arc x="561.5" y="178.5" r="100">Przednie Jatki</arc>
+    <arc x="595" y="179" angle="-12">Pośrednie Jatki</arc>
+    <arc x="635" y="175" r="20" angle="2">Zadnie Jatki</arc>
     <arc x="707" y="171">Szalony Wierch</arc>
     <arc x="754.5" y="162" r="15">Płaczliwa Skała</arc>
     <line x="793" y="160" slant="left">Hawrań</line>
@@ -14,16 +17,25 @@
     <arc x="850" y="144.5" r="5" wiki="Widły (Tatry)">Widły</arc>
     <arc x="875" y="137" r="10" wiki="Łomnica (Tatry)">Łomnica</arc>
     <line x="893.5" y="137" slant="right">Durny Szczyt</line>
+    <arc x="900" y="144.5" r="15" angle="-10">Kołowy Szczyt</arc>
     <arc x="906" y="176" r="10">Murań</arc>
     <arc x="937.5" y="141.5" r="10">Baranie Rogi</arc>
+    <arc x="945" y="166" r="100" angle="15">Świnka</arc>
+    <arc x="974" y="172" r="15">Bździochowa Kopa</arc>
     <line x="991.5" y="143.5" slant="left">Śnieżny Szczyt</line>
+    <arc x="993" y="195">Czarnogórski Upłaz</arc>
+    <arc x="997.3" y="177.5" r="15" angle="-4">Żółta Czuba</arc>
+    <line x="1005" y="141" slant="left">Lodowy Zwornik</line>
     <arc x="1019.3" y="133.8">Lodowy Szczyt</arc>
     <arc x="1085" y="153" angle="3">Sławkowska Grań</arc>
     <line x="1118" y="149" slant="left">Jaworowy Szczyt</line>
     <line x="1144" y="150.5" slant="left">Mały Jaworowy Szczyt</line>
+    <arc x="1148" y="176.3" angle="-7">Murowany Koszar</arc>
+    <arc x="1195" y="165">Świstowa Góra</arc>
+    <arc x="1208" y="157" angle="5">Szeroka Jaworzyńska</arc>
     <line x="1213.5" y="146.7" slant="left">Staroleśny Szczyt</line>
+    <arc x="1227" y="156">Zielona Czuba</arc>
     <line x="1254" y="149" slant="left">Mała Wysoka</line>
-    <arc x="1227" y="156" angle="5">Szeroka Jaworzyńska</arc>
     <arc x="1329" y="135.5" r="10">Gerlach</arc>
     <arc x="1377" y="147" r="12">Batyżowieczki Szczyt</arc>
     <line x="1395" y="150.5" slant="left">Kaczy Szczyt</line>
